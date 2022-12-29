@@ -1,10 +1,6 @@
 ### Hello, World. Olá, Mundo. Hallo Welt. Ciao Mondo. 哈囉世界. 
 I'm Anna Kassa (文安娜)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-
 <!--
 **annakassa/annakassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
