@@ -1,5 +1,9 @@
 ### Hello, World. Olá, Mundo. Hallo Welt. Ciao Mondo. 哈囉世界. 
-I'm Anna Kassa (文安娜)
+I'm Anna Kassa (文安娜). 
+I'm an Biomedical Engineering and Biomedical Science student interested in Bioinformatics.
+I have a  post-graduate lato sensu in Microbiology and I'm currently studying Python, Data Analysis and Artificial Intelligence.
+
+
 
 <!--
 **annakassa/annakassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
