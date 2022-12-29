@@ -5,7 +5,7 @@
 
 - I'm **Anna Kassa (文安娜)**
 - Biomedical Engineering and Biomedical Science student interested in **Bioinformatics**
-- I have a  post-graduate lato sensu in Microbiology and I'm currently studying **Python, Data Analysis and Artificial Intelligence**
+- Post-graduate lato sensu in Microbiology and I'm currently studying **Python, Data Analysis and Artificial Intelligence**
 - Completely passionated about Mathematics, Arts and Science. Sometimes I mix them up just for fun. 
 - Obsessed about languages
 
