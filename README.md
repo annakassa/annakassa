@@ -6,8 +6,8 @@
 - I'm **Anna Fernandes Kassa (文安娜)**
 - Biomedical Engineering and Biomedical Science student interested in **Bioinformatics**
 - Post-graduate lato sensu in Microbiology and I'm currently studying **Python, Data Analysis and Artificial Intelligence**
-- Completely passionated about Mathematics, Arts and Science. Sometimes I mix them up just for fun. 
-- Obsessed about languages and Leonardo Da Vinci.
+- Completely passionated about Mathematics, Arts and Science. I used to mix them up, just for fun (Still do it, from time to time)
+- Obsessed about languages and Leonardo Da Vinci
 
 
 
